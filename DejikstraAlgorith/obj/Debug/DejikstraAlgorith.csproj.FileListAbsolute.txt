@@ -1,0 +1,9 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DejikstraAlgorith\DejikstraAlgorith\bin\Debug\DejikstraAlgorith.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DejikstraAlgorith\DejikstraAlgorith\bin\Debug\DejikstraAlgorith.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DejikstraAlgorith\DejikstraAlgorith\bin\Debug\DejikstraAlgorith.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DejikstraAlgorith\DejikstraAlgorith\obj\Debug\DejikstraAlgorith.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DejikstraAlgorith\DejikstraAlgorith\obj\Debug\DejikstraAlgorith.Form1.resources
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DejikstraAlgorith\DejikstraAlgorith\obj\Debug\DejikstraAlgorith.Properties.Resources.resources
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DejikstraAlgorith\DejikstraAlgorith\obj\Debug\DejikstraAlgorith.csproj.GenerateResource.Cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DejikstraAlgorith\DejikstraAlgorith\obj\Debug\DejikstraAlgorith.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DejikstraAlgorith\DejikstraAlgorith\obj\Debug\DejikstraAlgorith.pdb
